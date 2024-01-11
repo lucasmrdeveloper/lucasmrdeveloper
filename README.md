@@ -12,7 +12,7 @@ Olá! Sou um entusiasta de tecnologia apaixonado pela criação de experiências
 <div>
   <ul>
     <li><a href="https://github.com/lucasmrdeveloper/to-do">Lista de Tarefas (to-do)</a></li>
-    <li><a href="https://lucasmrdeveloper.github.io/site-institucional-wc-development">Site institucional</a></li>
+    <li><a href="https://lucasmrdeveloper.github.io/wc-development">Site institucional</a></li>
   </ul>
 </div>
 
