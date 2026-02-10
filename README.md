@@ -4,8 +4,7 @@
 
 
 ## 👩‍💻 Sobre
-Olá! Sou um entusiasta de tecnologia apaixonado pela criação de experiências digitais incríveis. Com uma formação em Análise e Desenvolvimento de Sistemas e 2 anos de experiência no desenvolvimento web, desde então venho explorando as maravilhas da construção de interfaces interativas e responsivas.
-
+Frontend Developer focado em JavaScript, com experiência na construção e manutenção de interfaces web. Atua com HTML, CSS, React, Sass e Tailwind, além de desenvolvimento de sites institucionais com WordPress e Elementor.
 <br>
 
 ## 💻 Projetos
