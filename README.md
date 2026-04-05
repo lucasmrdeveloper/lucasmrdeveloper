@@ -1,7 +1,11 @@
 ## Lucas Rodrigues - Desenvolvedor Front-end
 
 ## 💻 Sobre
-Frontend Developer focado em JavaScript, com experiência na construção e manutenção de interfaces web. Atua com HTML, CSS, React, Sass e Tailwind, além de desenvolvimento de sites institucionais com WordPress e Elementor.
+Sou desenvolvedor front-end focado na criação de sites, sistemas web e interfaces.
+
+Tenho experiência prática no desenvolvimento com React, Javascript, HTML, CSS e Wordpress. Ao longo da minha trajetória, atuei na construção de sites, implementação de funcionalidades e manutenção de projetos, sempre buscando entregar soluções eficientes e bem estruturadas.
+
+Com um perfil altamente executor, tenho facilidade para transformar demandas em entregas concretas e resolver problemas de forma prática.
 <br>
 
 ## 🚀 Projetos
