@@ -12,7 +12,7 @@ Com um perfil altamente executor, tenho facilidade para transformar demandas em 
 <div>
   <ul>
     <li><a href="https://github.com/lucasmrdeveloper/portfolio">Portfólio</a></li>
-    <li><a href="https://js-debug.vercel.app/">JS Debug</a></li>
+    <li><a href="https://github.com/lucasmrdeveloper/JS-Debug">JS Debug</a></li>
     <li><a href="https://github.com/lucasmrdeveloper/to-do">Lista de Tarefas (to-do)</a></li>
   </ul>
 </div>
